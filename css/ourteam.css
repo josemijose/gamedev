@@ -87,26 +87,7 @@ h3
 }
 
 
-/* contactus */
-/* .contact{
-    height: 10%;
-}
-.contact img{
 
-    margin-top: -105px !important;
-    position: absolute;
-    width: 100%;
-    object-fit: cover;
-    background-attachment: fixed; 
-    background-clip: border-box; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    background-size: cover; 
-    height: 50%; 
-    z-index: -10;
-    
-    
-} */
 
 footer{
     background-image:url("./image/contactus.jpeg");
@@ -136,6 +117,10 @@ footer{
 .box h3{
     
     font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    color: white;
+    font-weight: 500;
+
 }
 .box p{
     padding-left: 10%;
